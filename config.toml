@@ -1,0 +1,13 @@
+baseURL = "https://anderlarra21.github.io/"
+defaultContentLanguage = "en"
+[languages]
+[languages.en]
+languageName = "English"
+contentDir = "content/en"
+[languages.es]
+languageName = "Español"
+contentDir = "content/es"
+[taxonomies]
+category = "categories"
+tag = "tags"
+
